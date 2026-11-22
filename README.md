@@ -13,4 +13,4 @@
 
 <p align"left>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jaskirat-gill&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jaskirat-gill&theme=tokyonight" alt="mystreak"/> </p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jaskirat-gill" alt="mystreak"/> </p>
